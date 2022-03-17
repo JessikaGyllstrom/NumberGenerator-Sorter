@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uppgift4
+public class Generator
 {
    public static void main(String[] args) 
    { 

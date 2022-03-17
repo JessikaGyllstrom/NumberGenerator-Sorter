@@ -13,7 +13,7 @@ public class Uppgift4
      * 6: Programmet skriver ut de jämna talen
      * 7: Programmet skriver ut de udda talen
      * 
-     * @author Jessika Gyllström, jesgyl-0
+     * @author Jessika Gyllström
      */
       
      //skapar variabler
